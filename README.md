@@ -23,6 +23,6 @@ $ npm i @adiwajshing/baileys
 $ npm i chalk
 $ node qr.js
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anirudhsudheer/Eva)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VaishnavMS/Amadeus)
 
 
