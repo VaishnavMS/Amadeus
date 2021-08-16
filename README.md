@@ -14,11 +14,11 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
 Repl.it is less stable. Try Termux instead for qrcode generation.
-
+<br><br>
   Paste the codes;
-\nTermux: bash <(curl -L https://t.ly/qYqy)
-\niOS: There is no support for IOS
-\nWindows 10: Invoke-Expression (New-Object                  System.Net.WebClient).DownloadString('https://gitlab.com/Quiec/whatsasena/-/raw/master/windows.ps1')
+<br>Termux: bash <(curl -L https://t.ly/qYqy)
+<br>iOS: There is no support for IOS
+<br>Windows 10: Invoke-Expression (New-Object                  System.Net.WebClient).DownloadString('https://gitlab.com/Quiec/whatsasena/-/raw/master/windows.ps1')
   
   
   
