@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src = "https://telegra.ph/file/82848c7ab5bb6289cb99d.jpg" width = "200" height = "400">
+  <img src = "https://telegra.ph/file/82848c7ab5bb6289cb99d.jpg" width = "400" height = "400">
   <h1> Eva </h1>
 </div>
 <p align = "center">
