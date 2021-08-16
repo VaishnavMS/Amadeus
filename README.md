@@ -15,6 +15,13 @@
 
 Repl.it is less stable. Try Termux instead for qrcode generation.
 
+  Paste the codes;
+\nTermux: bash <(curl -L https://t.ly/qYqy)
+\niOS: There is no support for IOS
+\nWindows 10: Invoke-Expression (New-Object                  System.Net.WebClient).DownloadString('https://gitlab.com/Quiec/whatsasena/-/raw/master/windows.ps1')
+  
+  
+  
 ### The Hard Method
 ``` js
 $ git clone https://github.com/anirudhsudheer/Eva.git
